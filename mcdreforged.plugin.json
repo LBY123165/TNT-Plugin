@@ -1,0 +1,17 @@
+{
+  "id": "tnt_plugin",
+  "version": "1.1.0",
+  "name": "TNT",
+  "description": "MC小游戏，赛波轮盘！",
+  "link": "https://github.com/LBY123165/TNT-Plugin",
+  "authors": [
+    {
+      "name": "LBY123165",
+      "link": "https://github.com/LBY123165"
+    },
+    {
+      "name": "da0v0",
+      "link": "https://github.com/daa0v0"
+    }
+  ]
+}
